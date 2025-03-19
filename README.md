@@ -62,21 +62,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img align="right" height="160" src="https://i.pinimg.com/originals/f2/51/97/f25197c789b8ad2de1d03a03ca14111d.gif"  />
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielalvaradorizo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
 </div>
 
-###
+---
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/rxgab26" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -87,5 +87,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
 
 ###
